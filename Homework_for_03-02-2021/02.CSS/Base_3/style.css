@@ -1,0 +1,28 @@
+.navigation{
+    width: 15em;
+    background-color: rgb(153, 153, 153);
+    float: left;
+}
+.articles p{
+    white-space: pre;
+}
+.articles{
+    margin-bottom: .2em;
+    background-color: gray;
+    float: left;
+    width: 1263px;
+}
+.articles img{
+    float: right;
+}
+.pre{
+    white-space: pre;
+}
+.conclusion{
+    background-color: rgb(153, 153, 153);
+    clear: both;
+}
+.indent{
+    margin-bottom: .02em;
+    height: auto;
+}
