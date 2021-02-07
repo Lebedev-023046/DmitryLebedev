@@ -9,8 +9,7 @@
 .articles{
     margin-bottom: .2em;
     background-color: gray;
-    float: left;
-    width: 1263px;
+    margin-left: 245px;
 }
 .articles img{
     float: right;
@@ -21,7 +20,7 @@
 .conclusion{
     background-color: rgb(153, 153, 153);
     clear: both;
-    width: 1504px;
+    
 }
 .indent{
     margin-bottom: .02em;
