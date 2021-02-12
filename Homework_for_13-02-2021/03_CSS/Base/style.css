@@ -28,8 +28,9 @@ div.main_meny > div{
     cursor: pointer ;
 }
 
-div.main_meny > div:hover div.meal{
+div.main_meny > div:hover  div.meal{
     display: block; position: absolute;
+    
     
 }
 div.main_meny > div:hover{
